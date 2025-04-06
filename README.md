@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunny Kumar Mishra</h1>
+<h3 align="center">Cybersecurity Enthusiast | Bug Bounty Learner | Python Developer 🐍</h3>
 
-<!--
-**sunnymishra565/sunnymishra565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔐 I love breaking stuff ethically (CTFs, WAF bypass, enumeration...)
+- 💣 Tools built: mini-vuln-scanner, csv-to-excel-converter, and more
+- 📫 Reach me: **sunnyh4ck@protonmail.com**
+- 💻 Currently practicing: **Kali Linux | Burp Suite | Nmap | Python**
+- 🎯 Goal: **Become a top-tier ethical hacker & security researcher**
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sunnymishra565&label=Profile%20views&color=0e75b6&style=flat" alt="sunnymishra565" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnymishra565&show_icons=true&theme=radical)
+
+
