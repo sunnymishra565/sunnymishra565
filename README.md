@@ -3,7 +3,7 @@
 
 - 🔐 I love breaking stuff ethically (CTFs, WAF bypass, enumeration...)
 - 💣 Tools built: mini-vuln-scanner, csv-to-excel-converter, and more
-- 📫 Reach me: **sunnyh4ck@protonmail.com**
+- 📫 Reach me: *aslokyt45@gmail.com**
 - 💻 Currently practicing: **Kali Linux | Burp Suite | Nmap | Python**
 - 🎯 Goal: **Become a top-tier ethical hacker & security researcher**
 
