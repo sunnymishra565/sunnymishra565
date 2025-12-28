@@ -1,46 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sunny Kumar Mishra</h1>
-<h3 align="center">🛡️ Information Security Learner | 🔍 SOC Analyst in Progress | 🧠 Cybersecurity Student</h3>
+Hi 👋, I'm Sunny Kumar Mishra
+
+🛡️ Cybersecurity Learner | CTF Player | Bug Bounty Practitioner
 
 ---
 
-### 🚀 About Me
-I’m passionate about **Information Security** and currently focused on developing strong foundations in **SOC operations**, **incident response**, and **threat analysis**.  
-I enjoy analyzing logs, identifying vulnerabilities, and building scripts that automate parts of the security workflow.
+## 🚀 About Me
+
+I’m learning cybersecurity through **hands-on practice**, mainly by solving **CTF challenges**
+and exploring **bug bounty methodologies**.
+
+I focus on understanding how vulnerabilities actually work, how attackers think,
+and how tools are used in real-world security testing.
 
 ---
 
-### 🧩 Skills & Tools
-- **Security Operations:** SIEM (Wazuh, Splunk, ELK), Log Analysis, Incident Triage, Threat Detection  
-- **Information Security:** Vulnerability Assessment, Network Security, Risk Management, Compliance Basics (ISO 27001, SOC2)  
-- **Networking:** TCP/IP, DNS, VPNs, Firewalls, IDS/IPS  
-- **Scripting & Tools:** Python (automation & parsing), SQL, Wireshark, Nmap, Burp Suite, Metasploit  
-- **Operating Systems:** Kali Linux, Windows, Ubuntu  
+## 🧠 What I Practice
+
+- Solving CTF challenges (web, recon, basic networking)
+- Learning bug bounty workflow and vulnerability discovery
+- Reproducing known vulnerabilities in lab environments
+- Reading write-ups and improving practical attack understanding
 
 ---
 
-### 🧠 Projects
-- **Log Analyzer (Python)** — Script that filters and categorizes security events for quick triage.  
-- **Mini Vulnerability Scanner** — Detects outdated services and open ports using Nmap automation.  
-- **Recon Automation Tool** — Simplifies reconnaissance and reporting for analysts.  
+## 🛠 Skills & Tools (Learning / Practice Level)
+
+- **Web Security:** XSS, SQL Injection, IDOR, authentication issues (basics)
+- **Recon & Testing:** Port scanning, service enumeration, manual testing
+- **Tools:** Nmap, Burp Suite, Wireshark, Metasploit (basic usage)
+- **Scripting:** Python (small automation and helper scripts)
+- **Operating Systems:** Kali Linux, Windows, Ubuntu
 
 ---
 
-### 🌐 Profiles
-- 🔐 TryHackMe: [cyberboy66](https://tryhackme.com/p/cyberboy66) — Top 5%  
-- 💡 LeetCode: [sunny233776](https://leetcode.com/u/sunny233776/) — Practicing logic and problem-solving  
-- 💼 LinkedIn: [Sunny Mishra](https://www.linkedin.com/in/sunny-mishra-101386320/)  
+## 📂 Current Project
+
+- **redgnet.ai** *(In Progress)*  
+  A practical **penetration testing assistant tool** aimed at helping with
+  reconnaissance and initial vulnerability discovery.
+
+  **Current focus:**
+  - Handling target inputs (domains / IPs)
+  - Automating basic recon tasks using open-source tools
+  - Generating clean, structured output for analysis
+  - Learning secure and scalable tool design
+
+  > This project is part of my hands-on learning in bug bounty and penetration testing.
 
 ---
 
-### 🎯 Mission
-> “To become a skilled SOC Analyst who can detect, analyze, and respond to cyber threats effectively.”
+## 🌐 Profiles
+
+- 🔐 TryHackMe: cyberboy66  
+- 💼 LinkedIn: Sunny Mishra  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunnymishra565&label=Profile%20views&color=0e75b6&style=flat" alt="sunnymishra565" />
-</p>
+## 🎯 Goal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnymishra565&show_icons=true&theme=radical" />
-</p>
+To continuously improve my skills in **CTFs and bug bounty**, gain deeper understanding
+of real-world vulnerabilities, and grow as a practical cybersecurity learner.
