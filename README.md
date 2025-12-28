@@ -52,9 +52,10 @@ and how tools are used in real-world security testing.
 ## 🌐 Profiles
 
 - 🔐 TryHackMe: cyberboy66  
+- 🧩 Hack The Box: Ayanokoji7666  
+  *(Actively solving Web challenges and learning through CTF events)*  
 - 💼 LinkedIn: Sunny Mishra  
 
----
 
 ## 🎯 Goal
 
